@@ -20,6 +20,11 @@
         "$type": "color",
         "$value": "{color.neutral.50}",
         "$description": "Tooltips, snackbars"
+      },
+      "sunken": {
+        "$type": "color",
+        "$value": "{color.neutral.800}",
+        "$description": "Inset areas such as code blocks"
       }
     },
     "text": {
