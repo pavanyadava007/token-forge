@@ -1,8 +1,8 @@
 node_modules/
-dist/
-lib/
+/dist/
+/lib/
 storybook-static/
-site/
+/site/
 test-results/
 playwright-report/
 reports/
