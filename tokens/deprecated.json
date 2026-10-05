@@ -1,0 +1,40 @@
+{
+  "color": {
+    "text": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.text.primary}",
+        "$deprecated": "Renamed to color.text.primary in 0.1.0"
+      },
+      "muted": {
+        "$type": "color",
+        "$value": "{color.text.secondary}",
+        "$deprecated": "Renamed to color.text.secondary in 0.1.0"
+      }
+    },
+    "bg": {
+      "page": {
+        "$type": "color",
+        "$value": "{color.surface.default}",
+        "$deprecated": "Renamed to color.surface.default in 0.1.0"
+      },
+      "card": {
+        "$type": "color",
+        "$value": "{color.surface.raised}",
+        "$deprecated": "Renamed to color.surface.raised in 0.1.0"
+      }
+    },
+    "brand": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.action.primary.bg}",
+        "$deprecated": "Renamed to color.action.primary.bg in 0.1.0"
+      }
+    },
+    "danger": {
+      "$type": "color",
+      "$value": "{color.feedback.error.text}",
+      "$deprecated": "Renamed to color.feedback.error.text in 0.1.0"
+    }
+  }
+}

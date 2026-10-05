@@ -1,0 +1,50 @@
+/* trip-summary: legacy styles written before the token system */
+
+.trip-summary__save:hover {
+  background: #1d4ed8;
+}
+
+.trip-summary select {
+  border-color: rgb(100, 116, 139);
+}
+
+.trip-summary__name {
+  color: var(--tf-color-text-default);
+}
+
+.trip-summary__sheet {
+  background: var(--tf-color-bg-card);
+}
+
+.trip-summary__secondary {
+  background: #fefffa;
+  border-color: rgb(203, 213, 225);
+}
+
+.trip-summary-wrapper {
+  background: #ffffff;
+}
+
+.trip-summary__error {
+  color: #b91c1c;
+  background: #fef2f2;
+}
+
+.trip-summary__badge--beta {
+  color: #7c3aed;
+}
+
+.trip-summary__caution {
+  background: #fffbeb;
+  color: #b9520a;
+}
+
+.trip-summary__body {
+  gap: 16px;
+  padding: 24px;
+}
+
+.trip-summary__note {
+  border-color: rgb(37, 99, 235);
+  background: #eff6ff;
+}

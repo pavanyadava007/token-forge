@@ -1,0 +1,46 @@
+/* dealer-finder: legacy styles written before the token system */
+
+.dealer-finder__panel-shadow {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.dealer-finder-page {
+  background: var(--tf-color-bg-page);
+}
+
+.dealer-finder__success {
+  color: #15803d;
+  background: #f0fdf4;
+}
+
+.dealer-finder__body {
+  padding: 16px;
+  gap: 8px;
+}
+
+.dealer-finder__label {
+  color: var(--tf-color-text-default);
+}
+
+.dealer-finder__item {
+  border-color: #e2e8f0;
+}
+
+.dealer-finder__error {
+  background: #fef2f2;
+  border-color: rgb(220, 38, 38);
+}
+
+.dealer-finder__cta {
+  background: var(--tf-color-brand-primary);
+  color: #fffbff;
+}
+
+.dealer-finder__note {
+  border-color: #2563eb;
+  background: #eff6ff;
+}
+
+.dealer-finder__help {
+  color: rgb(71, 85, 105);
+}

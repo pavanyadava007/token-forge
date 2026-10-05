@@ -1,0 +1,43 @@
+/* test-drive-form: legacy styles written before the token system */
+
+.test-drive-form__caption {
+  color: var(--tf-color-text-muted);
+}
+
+.test-drive-form__frame {
+  border-radius: 12px;
+}
+
+.test-drive-form__print-only {
+  color: #000000; /* print stylesheet, always black */
+}
+
+.test-drive-form__cta {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.test-drive-form__header {
+  background: #f8fafc;
+}
+
+.test-drive-form a {
+  color: rgb(29, 78, 216);
+}
+
+.test-drive-form__cancel {
+  background: #ffffff;
+  border-color: rgb(203, 213, 225);
+}
+
+.test-drive-form__card {
+  background: var(--tf-color-bg-card);
+}
+
+.test-drive-form__body {
+  padding: 12px;
+}
+
+.test-drive-form__save:hover {
+  background: #1b4bd6;
+}

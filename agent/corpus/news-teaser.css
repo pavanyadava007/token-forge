@@ -1,0 +1,49 @@
+/* news-teaser: legacy styles written before the token system */
+
+.news-teaser__info {
+  background: #f3f8ff;
+  border-color: #2365ec;
+}
+
+.news-teaser__logo path {
+  fill: #e30613; /* partner logo, fixed brand colour */
+}
+
+.news-teaser__caution {
+  color: #b45409;
+  background: #fffbeb;
+}
+
+.news-teaser__done {
+  color: rgb(21, 128, 61);
+  background: #f0fdf4;
+}
+
+.news-teaser__link {
+  color: #1e53d7;
+}
+
+.news-teaser__sheet {
+  background: var(--tf-color-bg-card);
+}
+
+.news-teaser input:focus-visible {
+  outline-color: #2466e7;
+}
+
+.news-teaser__caption {
+  color: rgb(71, 85, 105);
+}
+
+.news-teaser h2 {
+  color: rgb(15, 23, 42);
+}
+
+.news-teaser__item--disabled {
+  color: #96a8bd;
+}
+
+.news-teaser__body {
+  font-size: 16px;
+  gap: 16px;
+}

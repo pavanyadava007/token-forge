@@ -1,0 +1,51 @@
+/* login-form: legacy styles written before the token system */
+
+.login-form__field:focus {
+  outline-color: rgb(37, 99, 235);
+}
+
+.login-form__qr {
+  background: #ffffff; /* QR codes need pure white in every theme */
+}
+
+.login-form__info {
+  color: #1d4ed8;
+  border-color: #2563eb;
+}
+
+.login-form__cancel {
+  background: #ffffff;
+  border-color: #cbd5e1;
+}
+
+.login-form__toast {
+  background: rgb(15, 23, 42);
+  color: #ffffff;
+}
+
+.login-form__well {
+  background: #f8fafc;
+}
+
+.login-form__saved {
+  border-color: #16a34a;
+  background: #f0fdf4;
+}
+
+.login-form__meta {
+  color: #475569;
+}
+
+.login-form__expiry {
+  background: #fcf8e9;
+  color: #b45309;
+}
+
+.login-form__body {
+  margin-bottom: 16px;
+  padding: 12px;
+}
+
+.login-form__title {
+  color: #0f172a;
+}

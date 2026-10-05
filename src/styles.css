@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+@import '../dist/css/tokens.css';
+@import '../dist/tailwind/theme.css';
+
+body {
+  background: var(--tf-color-surface-default);
+  color: var(--tf-color-text-primary);
+  font-family: var(--tf-font-family-sans);
+}

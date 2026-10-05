@@ -1,0 +1,53 @@
+/* vehicle-card: legacy styles written before the token system */
+
+.vehicle-card__frame {
+  border-radius: 8px;
+}
+
+.vehicle-card button:focus-visible {
+  outline-color: #2861e6;
+}
+
+.vehicle-card__body {
+  font-size: 16px;
+  gap: 4px;
+}
+
+.vehicle-card__section {
+  background: #f8fafc;
+}
+
+.vehicle-card__panel-shadow {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.vehicle-card__caption {
+  color: var(--tf-color-text-muted);
+}
+
+.vehicle-card__qr {
+  background: #ffffff; /* QR codes need pure white in every theme */
+}
+
+.vehicle-card__hint-box {
+  border-color: #2563eb;
+  color: #1d4ed8;
+}
+
+.vehicle-card__cancel {
+  background: #fcfeff;
+  border-color: #c7d9e0;
+}
+
+.vehicle-card__panel {
+  background: #fbffff;
+}
+
+.vehicle-card__success {
+  color: #15803d;
+  border-color: #16a34a;
+}
+
+.vehicle-card__divider {
+  border-color: #e2e8f0;
+}

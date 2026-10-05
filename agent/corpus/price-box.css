@@ -1,0 +1,52 @@
+/* price-box: legacy styles written before the token system */
+
+.price-box__body {
+  padding: 8px;
+}
+
+.price-box-wrapper {
+  background: #ffffff;
+}
+
+.price-box__done {
+  background: #f0fdf4;
+  border-color: #16a34a;
+}
+
+.price-box__frame {
+  border-radius: 8px;
+}
+
+.price-box__sheet {
+  background: #ffffff;
+}
+
+.price-box__expiry {
+  color: #b45309;
+  background: rgb(255, 251, 235);
+}
+
+.price-box__cta {
+  background: var(--tf-color-brand-primary);
+  color: rgb(255, 255, 255);
+}
+
+.price-box__option[aria-disabled='true'] {
+  color: #96a0b3;
+}
+
+.price-box__badge--beta {
+  color: #7c3aed;
+}
+
+.price-box__confirm:hover {
+  background: rgb(29, 78, 216);
+}
+
+.price-box__chart-line--3 {
+  stroke: #a855f7;
+}
+
+.price-box__help {
+  color: #475569;
+}

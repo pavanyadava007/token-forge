@@ -1,0 +1,52 @@
+/* nav-drawer: legacy styles written before the token system */
+
+.nav-drawer__body {
+  margin-bottom: 32px;
+  gap: 8px;
+  line-height: 1.5;
+}
+
+.nav-drawer a {
+  color: #224cd5;
+}
+
+.nav-drawer__toast {
+  background: #0f172a;
+  color: #ffffff;
+}
+
+.nav-drawer__cancel {
+  background: #ffffff;
+  border-color: #cbd5e1;
+}
+
+.nav-drawer__divider {
+  border-color: #e2e8f0;
+}
+
+.nav-drawer__field {
+  border-color: #617689;
+}
+
+.nav-drawer__field:focus {
+  outline-color: #2a62e7;
+}
+
+.nav-drawer__hint-box {
+  background: #eff6ff;
+  border-color: #255feb;
+}
+
+.nav-drawer .primary {
+  background: #2566ef;
+  color: rgb(255, 255, 255);
+}
+
+.nav-drawer__qr {
+  background: #ffffff; /* QR codes need pure white in every theme */
+}
+
+.nav-drawer__success {
+  color: #15803d;
+  border-color: #15a245;
+}

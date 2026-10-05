@@ -1,0 +1,54 @@
+/* charging-map: legacy styles written before the token system */
+
+.charging-map__frame {
+  border-radius: 12px;
+}
+
+.charging-map__label {
+  color: #0f172a;
+}
+
+.charging-map__qr {
+  background: #ffffff; /* QR codes need pure white in every theme */
+}
+
+.charging-map .primary {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.charging-map__success {
+  border-color: #11a04f;
+  color: #15803d;
+}
+
+.charging-map__warning {
+  border-color: #f59e0b;
+  color: #b45309;
+}
+
+.charging-map__error {
+  background: #fef2f2;
+  color: var(--tf-color-danger);
+}
+
+.charging-map__option[aria-disabled='true'] {
+  color: #94a3b8;
+}
+
+.charging-map__confirm:hover {
+  background: #1d4ed8;
+}
+
+.charging-map-layout {
+  background: #fbffff;
+}
+
+.charging-map input:focus-visible {
+  outline-color: #2563eb;
+}
+
+.charging-map__body {
+  padding: 24px;
+  margin-bottom: 8px;
+}

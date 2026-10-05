@@ -1,0 +1,54 @@
+/* order-list: legacy styles written before the token system */
+
+.order-list__link {
+  color: #194bdb;
+}
+
+.order-list .primary {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.order-list select {
+  border-color: #607686;
+}
+
+.order-list__expiry {
+  border-color: #f59e0b;
+  background: #fffbeb;
+}
+
+.order-list__sheet {
+  background: #ffffff;
+}
+
+.order-list__avatar {
+  width: 40px;
+}
+
+.order-list__help {
+  color: #475569;
+}
+
+.order-list__body {
+  padding: 4px;
+  gap: 8px;
+  font-size: 16px;
+}
+
+.order-list__panel-shadow {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.order-list__field:focus {
+  outline-color: #2563eb;
+}
+
+.order-list__cta:hover {
+  background: #1d4ed8;
+}
+
+.order-list__bubble {
+  background: #0f172a;
+  color: #ffffff;
+}

@@ -1,0 +1,438 @@
+{"file": "vehicle-card.css", "selector": ".vehicle-card button:focus-visible", "prop": "outline-color", "original": "#2861e6", "expected": "var(--tf-color-border-focus)", "kind": "near", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__panel", "prop": "background", "original": "#fbffff", "expected": "var(--tf-color-surface-raised)", "kind": "near", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__divider", "prop": "border-color", "original": "#e2e8f0", "expected": "var(--tf-color-border-default)", "kind": "exact", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__success", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__success", "prop": "border-color", "original": "#16a34a", "expected": "var(--tf-color-feedback-success-border)", "kind": "exact", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__cancel", "prop": "background", "original": "#fcfeff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "near", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__cancel", "prop": "border-color", "original": "#c7d9e0", "expected": "var(--tf-color-action-secondary-border)", "kind": "near", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__caption", "prop": "color", "original": "var(--tf-color-text-muted)", "expected": "var(--tf-color-text-secondary)", "kind": "deprecated", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__section", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__hint-box", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__hint-box", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__frame", "prop": "border-radius", "original": "8px", "expected": "var(--tf-radius-md)", "kind": "dim", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__body", "prop": "gap", "original": "4px", "expected": "var(--tf-space-1)", "kind": "dim", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__panel-shadow", "prop": "box-shadow", "original": "0 1px 3px rgba(15, 23, 42, 0.12)", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "vehicle-card.css", "selector": ".vehicle-card__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__label", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__cancel", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "campaign-table.css", "selector": ".campaign-table__cancel", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__note", "prop": "background", "original": "#eff6ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "exact", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__note", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "campaign-table.css", "selector": ".campaign-table-tile", "prop": "background", "original": "var(--tf-color-bg-card)", "expected": "var(--tf-color-surface-raised)", "kind": "deprecated", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__success", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__success", "prop": "border-color", "original": "#15a84e", "expected": "var(--tf-color-feedback-success-border)", "kind": "near", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__problem", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__problem", "prop": "border-color", "original": "#dc2626", "expected": "var(--tf-color-feedback-error-border)", "kind": "exact", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__body", "prop": "padding", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__frame", "prop": "border-radius", "original": "8px", "expected": "var(--tf-radius-md)", "kind": "dim", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "campaign-table.css", "selector": ".campaign-table__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__expiry", "prop": "background", "original": "#fcf8e9", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "near", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__expiry", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__meta", "prop": "color", "original": "#475569", "expected": "var(--tf-color-text-secondary)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__field:focus", "prop": "outline-color", "original": "rgb(37, 99, 235)", "expected": "var(--tf-color-border-focus)", "kind": "format", "ambiguous": true}
+{"file": "login-form.css", "selector": ".login-form__cancel", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "login-form.css", "selector": ".login-form__cancel", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__toast", "prop": "background", "original": "rgb(15, 23, 42)", "expected": "var(--tf-color-surface-inverse)", "kind": "format", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__toast", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "near", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__title", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__saved", "prop": "border-color", "original": "#16a34a", "expected": "var(--tf-color-feedback-success-border)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__saved", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__well", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__info", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "login-form.css", "selector": ".login-form__info", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "login-form.css", "selector": ".login-form__body", "prop": "margin-bottom", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__body", "prop": "padding", "original": "12px", "expected": "var(--tf-space-3)", "kind": "dim", "ambiguous": false}
+{"file": "login-form.css", "selector": ".login-form__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__save:hover", "prop": "background", "original": "rgb(29, 78, 216)", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "format", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__success", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__success", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner select", "prop": "border-color", "original": "#5f728e", "expected": "var(--tf-color-border-strong)", "kind": "near", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__row", "prop": "border-color", "original": "#e5e3f3", "expected": "var(--tf-color-border-default)", "kind": "near", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__secondary", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "release-banner.css", "selector": ".release-banner__secondary", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__more", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "release-banner.css", "selector": ".release-banner__card", "prop": "background", "original": "#fdffff", "expected": "var(--tf-color-surface-raised)", "kind": "near", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__expiry", "prop": "background", "original": "#fffbeb", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "exact", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__expiry", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "release-banner.css", "selector": ".release-banner__print-only", "prop": "color", "original": "#000000", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__alert--danger", "prop": "border-color", "original": "#dc2626", "expected": "var(--tf-color-feedback-error-border)", "kind": "exact", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__alert--danger", "prop": "color", "original": "#b91c1c", "expected": "var(--tf-color-feedback-error-text)", "kind": "exact", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__link", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "fleet-panel.css", "selector": ".fleet-panel input", "prop": "border-color", "original": "#64748b", "expected": "var(--tf-color-border-strong)", "kind": "exact", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__saved", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__saved", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__name", "prop": "color", "original": "var(--tf-color-text-default)", "expected": "var(--tf-color-text-primary)", "kind": "deprecated", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__well", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__hint-box", "prop": "color", "original": "#1a49d5", "expected": "var(--tf-color-feedback-info-text)", "kind": "near", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__hint-box", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "fleet-panel.css", "selector": ".fleet-panel-tile", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-raised)", "kind": "near", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__body", "prop": "font-size", "original": "20px", "expected": "var(--tf-font-size-lg)", "kind": "dim", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__body", "prop": "padding", "original": "12px", "expected": "var(--tf-space-3)", "kind": "dim", "ambiguous": false}
+{"file": "fleet-panel.css", "selector": ".fleet-panel__body", "prop": "line-height", "original": "1.5", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__help", "prop": "color", "original": "#475569", "expected": "var(--tf-color-text-secondary)", "kind": "exact", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__cancel", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__cancel", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog input:focus-visible", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__item--disabled", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__cta:hover", "prop": "background", "original": "#1f52d4", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "near", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__hint-box", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__hint-box", "prop": "background", "original": "#eff6ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "exact", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog a", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__cta", "prop": "background", "original": "#2362e6", "expected": "var(--tf-color-action-primary-bg)", "kind": "near", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__cta", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__body", "prop": "padding", "original": "24px", "expected": "var(--tf-space-6)", "kind": "dim", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__frame", "prop": "border-radius", "original": "8px", "expected": "var(--tf-radius-md)", "kind": "dim", "ambiguous": false}
+{"file": "settings-dialog.css", "selector": ".settings-dialog__panel-shadow", "prop": "box-shadow", "original": "0 1px 3px rgba(15, 23, 42, 0.12)", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__field:focus", "prop": "outline-color", "original": "#2a62e7", "expected": "var(--tf-color-border-focus)", "kind": "near", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__cancel", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__cancel", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__field", "prop": "border-color", "original": "#617689", "expected": "var(--tf-color-border-strong)", "kind": "near", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__toast", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__toast", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "nav-drawer.css", "selector": ".nav-drawer a", "prop": "color", "original": "#224cd5", "expected": "var(--tf-color-text-link)", "kind": "near", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__hint-box", "prop": "background", "original": "#eff6ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "exact", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__hint-box", "prop": "border-color", "original": "#255feb", "expected": "var(--tf-color-feedback-info-border)", "kind": "near", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__divider", "prop": "border-color", "original": "#e2e8f0", "expected": "var(--tf-color-border-default)", "kind": "exact", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer .primary", "prop": "background", "original": "#2566ef", "expected": "var(--tf-color-action-primary-bg)", "kind": "near", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer .primary", "prop": "color", "original": "rgb(255, 255, 255)", "expected": "var(--tf-color-text-on-action)", "kind": "format", "ambiguous": true}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__success", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__success", "prop": "border-color", "original": "#15a245", "expected": "var(--tf-color-feedback-success-border)", "kind": "near", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__body", "prop": "margin-bottom", "original": "32px", "expected": "var(--tf-space-8)", "kind": "dim", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__body", "prop": "line-height", "original": "1.5", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "nav-drawer.css", "selector": ".nav-drawer__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__item--disabled", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__alert--danger", "prop": "border-color", "original": "#dc2626", "expected": "var(--tf-color-feedback-error-border)", "kind": "exact", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__alert--danger", "prop": "background", "original": "rgb(254, 242, 242)", "expected": "var(--tf-color-feedback-error-bg)", "kind": "format", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__caption", "prop": "color", "original": "var(--tf-color-text-muted)", "expected": "var(--tf-color-text-secondary)", "kind": "deprecated", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__item", "prop": "border-color", "original": "rgb(226, 232, 240)", "expected": "var(--tf-color-border-default)", "kind": "format", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box-page", "prop": "background", "original": "rgb(255, 255, 255)", "expected": "var(--tf-color-surface-default)", "kind": "format", "ambiguous": true}
+{"file": "search-box.css", "selector": ".search-box input", "prop": "border-color", "original": "rgb(100, 116, 139)", "expected": "var(--tf-color-border-strong)", "kind": "format", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__header", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box button:focus-visible", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "search-box.css", "selector": ".search-box__frame", "prop": "border-radius", "original": "4px", "expected": "var(--tf-radius-sm)", "kind": "dim", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "search-box.css", "selector": ".search-box__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__caution", "prop": "background", "original": "#fffbeb", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "exact", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__caution", "prop": "color", "original": "#b9520a", "expected": "var(--tf-color-feedback-warning-text)", "kind": "near", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__sheet", "prop": "background", "original": "var(--tf-color-bg-card)", "expected": "var(--tf-color-surface-raised)", "kind": "deprecated", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary-wrapper", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-default)", "kind": "exact", "ambiguous": true}
+{"file": "trip-summary.css", "selector": ".trip-summary__save:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary select", "prop": "border-color", "original": "rgb(100, 116, 139)", "expected": "var(--tf-color-border-strong)", "kind": "format", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__secondary", "prop": "background", "original": "#fefffa", "expected": "var(--tf-color-action-secondary-bg)", "kind": "near", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__secondary", "prop": "border-color", "original": "rgb(203, 213, 225)", "expected": "var(--tf-color-action-secondary-border)", "kind": "format", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__note", "prop": "border-color", "original": "rgb(37, 99, 235)", "expected": "var(--tf-color-feedback-info-border)", "kind": "format", "ambiguous": true}
+{"file": "trip-summary.css", "selector": ".trip-summary__note", "prop": "background", "original": "#eff6ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "exact", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__name", "prop": "color", "original": "var(--tf-color-text-default)", "expected": "var(--tf-color-text-primary)", "kind": "deprecated", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__error", "prop": "color", "original": "#b91c1c", "expected": "var(--tf-color-feedback-error-text)", "kind": "exact", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__error", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__body", "prop": "padding", "original": "24px", "expected": "var(--tf-space-6)", "kind": "dim", "ambiguous": false}
+{"file": "trip-summary.css", "selector": ".trip-summary__badge--beta", "prop": "color", "original": "#7c3aed", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map .primary", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map .primary", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "near", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__success", "prop": "border-color", "original": "#11a04f", "expected": "var(--tf-color-feedback-success-border)", "kind": "near", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__success", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map input:focus-visible", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "charging-map.css", "selector": ".charging-map__label", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__confirm:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map-layout", "prop": "background", "original": "#fbffff", "expected": "var(--tf-color-surface-default)", "kind": "near", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__warning", "prop": "border-color", "original": "#f59e0b", "expected": "var(--tf-color-feedback-warning-border)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__warning", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__error", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__error", "prop": "color", "original": "var(--tf-color-danger)", "expected": "var(--tf-color-feedback-error-text)", "kind": "deprecated", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__option[aria-disabled='true']", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__body", "prop": "padding", "original": "24px", "expected": "var(--tf-space-6)", "kind": "dim", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__body", "prop": "margin-bottom", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "charging-map.css", "selector": ".charging-map__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__help", "prop": "color", "original": "#475569", "expected": "var(--tf-color-text-secondary)", "kind": "exact", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list select", "prop": "border-color", "original": "#607686", "expected": "var(--tf-color-border-strong)", "kind": "near", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__bubble", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__bubble", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "order-list.css", "selector": ".order-list .primary", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list .primary", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "order-list.css", "selector": ".order-list__link", "prop": "color", "original": "#194bdb", "expected": "var(--tf-color-text-link)", "kind": "near", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__field:focus", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "order-list.css", "selector": ".order-list__cta:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__expiry", "prop": "border-color", "original": "#f59e0b", "expected": "var(--tf-color-feedback-warning-border)", "kind": "exact", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__expiry", "prop": "background", "original": "#fffbeb", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "exact", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__sheet", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-raised)", "kind": "exact", "ambiguous": true}
+{"file": "order-list.css", "selector": ".order-list__body", "prop": "padding", "original": "4px", "expected": "var(--tf-space-1)", "kind": "dim", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__panel-shadow", "prop": "box-shadow", "original": "0 1px 3px rgba(15, 23, 42, 0.12)", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "order-list.css", "selector": ".order-list__avatar", "prop": "width", "original": "40px", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__bubble", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__bubble", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "profile-header.css", "selector": ".profile-header__item--disabled", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header-wrapper", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-default)", "kind": "exact", "ambiguous": true}
+{"file": "profile-header.css", "selector": ".profile-header__field:focus", "prop": "outline-color", "original": "#2a62f0", "expected": "var(--tf-color-border-focus)", "kind": "near", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__info", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "profile-header.css", "selector": ".profile-header__info", "prop": "background", "original": "rgb(239, 246, 255)", "expected": "var(--tf-color-feedback-info-bg)", "kind": "format", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__row", "prop": "border-color", "original": "#e2e8f0", "expected": "var(--tf-color-border-default)", "kind": "exact", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__body", "prop": "padding", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__body", "prop": "margin-bottom", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "profile-header.css", "selector": ".profile-header__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__saved", "prop": "border-color", "original": "#16a34a", "expected": "var(--tf-color-feedback-success-border)", "kind": "exact", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__saved", "prop": "background", "original": "rgb(240, 253, 244)", "expected": "var(--tf-color-feedback-success-bg)", "kind": "format", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__secondary", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "service-booking.css", "selector": ".service-booking__secondary", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__save", "prop": "background", "original": "#2865ee", "expected": "var(--tf-color-action-primary-bg)", "kind": "near", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__save", "prop": "color", "original": "rgb(255, 255, 255)", "expected": "var(--tf-color-text-on-action)", "kind": "format", "ambiguous": true}
+{"file": "service-booking.css", "selector": ".service-booking__field:focus", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "service-booking.css", "selector": ".service-booking__well", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking h2", "prop": "color", "original": "var(--tf-color-text-default)", "expected": "var(--tf-color-text-primary)", "kind": "deprecated", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__cta:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__body", "prop": "margin-bottom", "original": "32px", "expected": "var(--tf-space-8)", "kind": "dim", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__body", "prop": "gap", "original": "4px", "expected": "var(--tf-space-1)", "kind": "dim", "ambiguous": false}
+{"file": "service-booking.css", "selector": ".service-booking__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__item", "prop": "border-color", "original": "#e2e8f0", "expected": "var(--tf-color-border-default)", "kind": "exact", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__success", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__success", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__help", "prop": "color", "original": "rgb(71, 85, 105)", "expected": "var(--tf-color-text-secondary)", "kind": "format", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder-page", "prop": "background", "original": "var(--tf-color-bg-page)", "expected": "var(--tf-color-surface-default)", "kind": "deprecated", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__note", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__note", "prop": "background", "original": "#eff6ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "exact", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__error", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__error", "prop": "border-color", "original": "rgb(220, 38, 38)", "expected": "var(--tf-color-feedback-error-border)", "kind": "format", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__cta", "prop": "background", "original": "var(--tf-color-brand-primary)", "expected": "var(--tf-color-action-primary-bg)", "kind": "deprecated", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__cta", "prop": "color", "original": "#fffbff", "expected": "var(--tf-color-text-on-action)", "kind": "near", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__label", "prop": "color", "original": "var(--tf-color-text-default)", "expected": "var(--tf-color-text-primary)", "kind": "deprecated", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__body", "prop": "padding", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "dealer-finder.css", "selector": ".dealer-finder__panel-shadow", "prop": "box-shadow", "original": "0 1px 3px rgba(15, 23, 42, 0.12)", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__caption", "prop": "color", "original": "rgb(71, 85, 105)", "expected": "var(--tf-color-text-secondary)", "kind": "format", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__link", "prop": "color", "original": "#1e53d7", "expected": "var(--tf-color-text-link)", "kind": "near", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__item--disabled", "prop": "color", "original": "#96a8bd", "expected": "var(--tf-color-text-disabled)", "kind": "near", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__done", "prop": "color", "original": "rgb(21, 128, 61)", "expected": "var(--tf-color-feedback-success-text)", "kind": "format", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__done", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__caution", "prop": "color", "original": "#b45409", "expected": "var(--tf-color-feedback-warning-text)", "kind": "near", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__caution", "prop": "background", "original": "#fffbeb", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "exact", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser input:focus-visible", "prop": "outline-color", "original": "#2466e7", "expected": "var(--tf-color-border-focus)", "kind": "near", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser h2", "prop": "color", "original": "rgb(15, 23, 42)", "expected": "var(--tf-color-text-primary)", "kind": "format", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__sheet", "prop": "background", "original": "var(--tf-color-bg-card)", "expected": "var(--tf-color-surface-raised)", "kind": "deprecated", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__info", "prop": "background", "original": "#f3f8ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "near", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__info", "prop": "border-color", "original": "#2365ec", "expected": "var(--tf-color-feedback-info-border)", "kind": "near", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "news-teaser.css", "selector": ".news-teaser__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__problem", "prop": "border-color", "original": "#e12726", "expected": "var(--tf-color-feedback-error-border)", "kind": "near", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__problem", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__note", "prop": "color", "original": "#1c4ad8", "expected": "var(--tf-color-feedback-info-text)", "kind": "near", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__note", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "config-stepper.css", "selector": ".config-stepper__cta", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__cta", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "config-stepper.css", "selector": ".config-stepper__field", "prop": "border-color", "original": "#64748b", "expected": "var(--tf-color-border-strong)", "kind": "exact", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__caution", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__caution", "prop": "border-color", "original": "#f8a009", "expected": "var(--tf-color-feedback-warning-border)", "kind": "near", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__done", "prop": "background", "original": "#f1fbf9", "expected": "var(--tf-color-feedback-success-bg)", "kind": "near", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__done", "prop": "border-color", "original": "#16a34a", "expected": "var(--tf-color-feedback-success-border)", "kind": "exact", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__frame", "prop": "border-radius", "original": "4px", "expected": "var(--tf-radius-sm)", "kind": "dim", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__body", "prop": "padding", "original": "12px", "expected": "var(--tf-space-3)", "kind": "dim", "ambiguous": false}
+{"file": "config-stepper.css", "selector": ".config-stepper__panel-shadow", "prop": "box-shadow", "original": "0 1px 3px rgba(15, 23, 42, 0.12)", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__cta", "prop": "background", "original": "var(--tf-color-brand-primary)", "expected": "var(--tf-color-action-primary-bg)", "kind": "deprecated", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__cta", "prop": "color", "original": "rgb(255, 255, 255)", "expected": "var(--tf-color-text-on-action)", "kind": "format", "ambiguous": true}
+{"file": "price-box.css", "selector": ".price-box__help", "prop": "color", "original": "#475569", "expected": "var(--tf-color-text-secondary)", "kind": "exact", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box-wrapper", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-default)", "kind": "exact", "ambiguous": true}
+{"file": "price-box.css", "selector": ".price-box__option[aria-disabled='true']", "prop": "color", "original": "#96a0b3", "expected": "var(--tf-color-text-disabled)", "kind": "near", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__confirm:hover", "prop": "background", "original": "rgb(29, 78, 216)", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "format", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__sheet", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-raised)", "kind": "exact", "ambiguous": true}
+{"file": "price-box.css", "selector": ".price-box__done", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__done", "prop": "border-color", "original": "#16a34a", "expected": "var(--tf-color-feedback-success-border)", "kind": "exact", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__expiry", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__expiry", "prop": "background", "original": "rgb(255, 251, 235)", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "format", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__body", "prop": "padding", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__frame", "prop": "border-radius", "original": "8px", "expected": "var(--tf-radius-md)", "kind": "dim", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__badge--beta", "prop": "color", "original": "#7c3aed", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "price-box.css", "selector": ".price-box__chart-line--3", "prop": "stroke", "original": "#a855f7", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__cancel", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__cancel", "prop": "border-color", "original": "rgb(203, 213, 225)", "expected": "var(--tf-color-action-secondary-border)", "kind": "format", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__header", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form a", "prop": "color", "original": "rgb(29, 78, 216)", "expected": "var(--tf-color-text-link)", "kind": "format", "ambiguous": true}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__save:hover", "prop": "background", "original": "#1b4bd6", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "near", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__caption", "prop": "color", "original": "var(--tf-color-text-muted)", "expected": "var(--tf-color-text-secondary)", "kind": "deprecated", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__card", "prop": "background", "original": "var(--tf-color-bg-card)", "expected": "var(--tf-color-surface-raised)", "kind": "deprecated", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__cta", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__cta", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__body", "prop": "padding", "original": "12px", "expected": "var(--tf-space-3)", "kind": "dim", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "test-drive-form.css", "selector": ".test-drive-form__print-only", "prop": "color", "original": "#000000", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__error", "prop": "color", "original": "var(--tf-color-danger)", "expected": "var(--tf-color-feedback-error-text)", "kind": "deprecated", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__error", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__cta:hover", "prop": "background", "original": "#1c49dc", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "near", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__hint-box", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__hint-box", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "warranty-notice.css", "selector": ".warranty-notice a", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "warranty-notice.css", "selector": ".warranty-notice-layout", "prop": "background", "original": "#faffff", "expected": "var(--tf-color-surface-default)", "kind": "near", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__field:focus", "prop": "outline-color", "original": "#2164f0", "expected": "var(--tf-color-border-focus)", "kind": "near", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__save", "prop": "background", "original": "#2264ea", "expected": "var(--tf-color-action-primary-bg)", "kind": "near", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__save", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__body", "prop": "margin-bottom", "original": "32px", "expected": "var(--tf-space-8)", "kind": "dim", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__frame", "prop": "border-radius", "original": "8px", "expected": "var(--tf-radius-md)", "kind": "dim", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__body", "prop": "padding", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__body", "prop": "line-height", "original": "1.5", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "warranty-notice.css", "selector": ".warranty-notice__chart-line--3", "prop": "stroke", "original": "#a855f7", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__cancel", "prop": "background", "original": "#fafffc", "expected": "var(--tf-color-action-secondary-bg)", "kind": "near", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__cancel", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__field", "prop": "border-color", "original": "#68748e", "expected": "var(--tf-color-border-strong)", "kind": "near", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__error", "prop": "color", "original": "#b91c1c", "expected": "var(--tf-color-feedback-error-text)", "kind": "exact", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__error", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__tooltip", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__tooltip", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "payment-sheet.css", "selector": ".payment-sheet-layout", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-default)", "kind": "exact", "ambiguous": true}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__info", "prop": "background", "original": "#f4f7fb", "expected": "var(--tf-color-feedback-info-bg)", "kind": "near", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__info", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__more", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__badge--beta", "prop": "color", "original": "#7c3aed", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "payment-sheet.css", "selector": ".payment-sheet__panel-shadow", "prop": "box-shadow", "original": "0 1px 3px rgba(15, 23, 42, 0.12)", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__caution", "prop": "border-color", "original": "#f59e0b", "expected": "var(--tf-color-feedback-warning-border)", "kind": "exact", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__caution", "prop": "background", "original": "rgb(255, 251, 235)", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "format", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__divider", "prop": "border-color", "original": "#e2e8f0", "expected": "var(--tf-color-border-default)", "kind": "exact", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__confirm", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__confirm", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "near", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid h2", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__bubble", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__bubble", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "feature-grid.ts", "selector": ".feature-grid-wrapper", "prop": "background", "original": "var(--tf-color-bg-page)", "expected": "var(--tf-color-surface-default)", "kind": "deprecated", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__body", "prop": "margin-bottom", "original": "32px", "expected": "var(--tf-space-8)", "kind": "dim", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "feature-grid.ts", "selector": ".feature-grid__print-only", "prop": "color", "original": "#000000", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__item--disabled", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__problem", "prop": "color", "original": "#b91c1c", "expected": "var(--tf-color-feedback-error-text)", "kind": "exact", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__problem", "prop": "border-color", "original": "rgb(220, 38, 38)", "expected": "var(--tf-color-feedback-error-border)", "kind": "format", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__field", "prop": "border-color", "original": "#64748b", "expected": "var(--tf-color-border-strong)", "kind": "exact", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__done", "prop": "background", "original": "rgb(240, 253, 244)", "expected": "var(--tf-color-feedback-success-bg)", "kind": "format", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__done", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__label", "prop": "color", "original": "var(--tf-color-text-default)", "expected": "var(--tf-color-text-primary)", "kind": "deprecated", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery a", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "media-gallery.ts", "selector": ".media-gallery input:focus-visible", "prop": "outline-color", "original": "rgb(37, 99, 235)", "expected": "var(--tf-color-border-focus)", "kind": "format", "ambiguous": true}
+{"file": "media-gallery.ts", "selector": ".media-gallery__body", "prop": "gap", "original": "4px", "expected": "var(--tf-space-1)", "kind": "dim", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__body", "prop": "font-size", "original": "14px", "expected": "var(--tf-font-size-sm)", "kind": "dim", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__avatar", "prop": "width", "original": "40px", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "media-gallery.ts", "selector": ".media-gallery__chart-line--3", "prop": "stroke", "original": "#a855f7", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__caution", "prop": "background", "original": "#fffbeb", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "exact", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__caution", "prop": "color", "original": "#af520c", "expected": "var(--tf-color-feedback-warning-text)", "kind": "near", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__flyout", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-raised)", "kind": "exact", "ambiguous": true}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__confirm:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__field:focus", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__toast", "prop": "background", "original": "#0c162e", "expected": "var(--tf-color-surface-inverse)", "kind": "near", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__toast", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__note", "prop": "border-color", "original": "#2563eb", "expected": "var(--tf-color-feedback-info-border)", "kind": "exact", "ambiguous": true}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__note", "prop": "background", "original": "#edfaff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "near", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion-page", "prop": "background", "original": "var(--tf-color-bg-page)", "expected": "var(--tf-color-surface-default)", "kind": "deprecated", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__error", "prop": "border-color", "original": "rgb(220, 38, 38)", "expected": "var(--tf-color-feedback-error-border)", "kind": "format", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__error", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__frame", "prop": "border-radius", "original": "8px", "expected": "var(--tf-radius-md)", "kind": "dim", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__body", "prop": "margin-bottom", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "faq-accordion.ts", "selector": ".faq-accordion__avatar", "prop": "width", "original": "40px", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__timestamp", "prop": "color", "original": "#475569", "expected": "var(--tf-color-text-secondary)", "kind": "exact", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__card", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-raised)", "kind": "exact", "ambiguous": true}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__warning", "prop": "color", "original": "#b74e0a", "expected": "var(--tf-color-feedback-warning-text)", "kind": "near", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__warning", "prop": "border-color", "original": "#f29907", "expected": "var(--tf-color-feedback-warning-border)", "kind": "near", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__item--disabled", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__section", "prop": "background", "original": "#f6fdff", "expected": "var(--tf-color-surface-subtle)", "kind": "near", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer .primary", "prop": "background", "original": "#245fea", "expected": "var(--tf-color-action-primary-bg)", "kind": "near", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer .primary", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__saved", "prop": "background", "original": "#f0fdf4", "expected": "var(--tf-color-feedback-success-bg)", "kind": "exact", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__saved", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__body", "prop": "padding", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "cookie-layer.ts", "selector": ".cookie-layer__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__tooltip", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__tooltip", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "account-menu.ts", "selector": ".account-menu__alert--danger", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__alert--danger", "prop": "color", "original": "#b91c1c", "expected": "var(--tf-color-feedback-error-text)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__option[aria-disabled='true']", "prop": "color", "original": "#94a3b8", "expected": "var(--tf-color-text-disabled)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__title", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu button:focus-visible", "prop": "outline-color", "original": "rgb(37, 99, 235)", "expected": "var(--tf-color-border-focus)", "kind": "format", "ambiguous": true}
+{"file": "account-menu.ts", "selector": ".account-menu__field", "prop": "border-color", "original": "#64748b", "expected": "var(--tf-color-border-strong)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__save:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__panel", "prop": "background", "original": "#fafafb", "expected": "var(--tf-color-surface-raised)", "kind": "near", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__body", "prop": "font-size", "original": "16px", "expected": "var(--tf-font-size-md)", "kind": "dim", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "account-menu.ts", "selector": ".account-menu__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__warning", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__warning", "prop": "border-color", "original": "#f59e0b", "expected": "var(--tf-color-feedback-warning-border)", "kind": "exact", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__problem", "prop": "color", "original": "#be1a1b", "expected": "var(--tf-color-feedback-error-text)", "kind": "near", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__problem", "prop": "background", "original": "rgb(254, 242, 242)", "expected": "var(--tf-color-feedback-error-bg)", "kind": "format", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator-tile", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-raised)", "kind": "exact", "ambiguous": true}
+{"file": "range-calculator.ts", "selector": ".range-calculator__row", "prop": "border-color", "original": "#e2e8f4", "expected": "var(--tf-color-border-default)", "kind": "near", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator select", "prop": "border-color", "original": "#64748b", "expected": "var(--tf-color-border-strong)", "kind": "exact", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__secondary", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "range-calculator.ts", "selector": ".range-calculator__secondary", "prop": "border-color", "original": "#ccd0e2", "expected": "var(--tf-color-action-secondary-border)", "kind": "near", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__saved", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__saved", "prop": "background", "original": "#f4fbf0", "expected": "var(--tf-color-feedback-success-bg)", "kind": "near", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__body", "prop": "padding", "original": "24px", "expected": "var(--tf-space-6)", "kind": "dim", "ambiguous": false}
+{"file": "range-calculator.ts", "selector": ".range-calculator__logo path", "prop": "fill", "original": "#e30613", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__hint-box", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "spec-table.ts", "selector": ".spec-table__hint-box", "prop": "background", "original": "#eff6ff", "expected": "var(--tf-color-feedback-info-bg)", "kind": "exact", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table-page", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-surface-default)", "kind": "exact", "ambiguous": true}
+{"file": "spec-table.ts", "selector": ".spec-table__bubble", "prop": "background", "original": "#0f172a", "expected": "var(--tf-color-surface-inverse)", "kind": "exact", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__bubble", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "spec-table.ts", "selector": ".spec-table__confirm:hover", "prop": "background", "original": "#2249d8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "near", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table input", "prop": "border-color", "original": "rgb(100, 116, 139)", "expected": "var(--tf-color-border-strong)", "kind": "format", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table a", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "spec-table.ts", "selector": ".spec-table__problem", "prop": "color", "original": "#b91c1c", "expected": "var(--tf-color-feedback-error-text)", "kind": "exact", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__problem", "prop": "background", "original": "#fef2f2", "expected": "var(--tf-color-feedback-error-bg)", "kind": "exact", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__divider", "prop": "border-color", "original": "#e2e8f0", "expected": "var(--tf-color-border-default)", "kind": "exact", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__body", "prop": "margin-bottom", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__body", "prop": "font-size", "original": "14px", "expected": "var(--tf-font-size-sm)", "kind": "dim", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__avatar", "prop": "width", "original": "40px", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "spec-table.ts", "selector": ".spec-table__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero-canvas", "prop": "background", "original": "var(--tf-color-bg-page)", "expected": "var(--tf-color-surface-default)", "kind": "deprecated", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__field:focus", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "video-hero.ts", "selector": ".video-hero__name", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero input", "prop": "border-color", "original": "#697089", "expected": "var(--tf-color-border-strong)", "kind": "near", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__save:hover", "prop": "background", "original": "#1a4dd7", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "near", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__note", "prop": "background", "original": "#ebf5fd", "expected": "var(--tf-color-feedback-info-bg)", "kind": "near", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__note", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-feedback-info-text)", "kind": "exact", "ambiguous": true}
+{"file": "video-hero.ts", "selector": ".video-hero__caution", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__caution", "prop": "border-color", "original": "#f59e0b", "expected": "var(--tf-color-feedback-warning-border)", "kind": "exact", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__caption", "prop": "color", "original": "#475569", "expected": "var(--tf-color-text-secondary)", "kind": "exact", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__body", "prop": "padding", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__frame", "prop": "border-radius", "original": "4px", "expected": "var(--tf-radius-sm)", "kind": "dim", "ambiguous": false}
+{"file": "video-hero.ts", "selector": ".video-hero__chart-line--3", "prop": "stroke", "original": "#a855f7", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__row:nth-child(even)", "prop": "background", "original": "#f8fafc", "expected": "var(--tf-color-surface-subtle)", "kind": "exact", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__cancel", "prop": "background", "original": "#ffffff", "expected": "var(--tf-color-action-secondary-bg)", "kind": "exact", "ambiguous": true}
+{"file": "footer-links.ts", "selector": ".footer-links__cancel", "prop": "border-color", "original": "#cbd5e1", "expected": "var(--tf-color-action-secondary-border)", "kind": "exact", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__save", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__save", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "footer-links.ts", "selector": ".footer-links button:focus-visible", "prop": "outline-color", "original": "#2563eb", "expected": "var(--tf-color-border-focus)", "kind": "exact", "ambiguous": true}
+{"file": "footer-links.ts", "selector": ".footer-links__saved", "prop": "border-color", "original": "#16a34a", "expected": "var(--tf-color-feedback-success-border)", "kind": "exact", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__saved", "prop": "color", "original": "#15803d", "expected": "var(--tf-color-feedback-success-text)", "kind": "exact", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__cta:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__body", "prop": "padding", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__body", "prop": "font-size", "original": "14px", "expected": "var(--tf-font-size-sm)", "kind": "dim", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__body", "prop": "gap", "original": "16px", "expected": "var(--tf-space-4)", "kind": "dim", "ambiguous": false}
+{"file": "footer-links.ts", "selector": ".footer-links__avatar", "prop": "width", "original": "40px", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__cta:hover", "prop": "background", "original": "#1d4ed8", "expected": "var(--tf-color-action-primary-bg-hover)", "kind": "exact", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline h2", "prop": "color", "original": "#0f172a", "expected": "var(--tf-color-text-primary)", "kind": "exact", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__cta", "prop": "background", "original": "#2563eb", "expected": "var(--tf-color-action-primary-bg)", "kind": "exact", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__cta", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-on-action)", "kind": "exact", "ambiguous": true}
+{"file": "status-timeline.ts", "selector": ".status-timeline__bubble", "prop": "background", "original": "rgb(15, 23, 42)", "expected": "var(--tf-color-surface-inverse)", "kind": "format", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__bubble", "prop": "color", "original": "#ffffff", "expected": "var(--tf-color-text-inverse)", "kind": "exact", "ambiguous": true}
+{"file": "status-timeline.ts", "selector": ".status-timeline__warning", "prop": "color", "original": "#b45309", "expected": "var(--tf-color-feedback-warning-text)", "kind": "exact", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__warning", "prop": "background", "original": "#fffbeb", "expected": "var(--tf-color-feedback-warning-bg)", "kind": "exact", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__more", "prop": "color", "original": "#1d4ed8", "expected": "var(--tf-color-text-link)", "kind": "exact", "ambiguous": true}
+{"file": "status-timeline.ts", "selector": ".status-timeline__body", "prop": "padding", "original": "4px", "expected": "var(--tf-space-1)", "kind": "dim", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__body", "prop": "gap", "original": "8px", "expected": "var(--tf-space-2)", "kind": "dim", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__frame", "prop": "border-radius", "original": "12px", "expected": "var(--tf-radius-lg)", "kind": "dim", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__print-only", "prop": "color", "original": "#000000", "expected": "KEEP", "kind": "keep", "ambiguous": false}
+{"file": "status-timeline.ts", "selector": ".status-timeline__qr", "prop": "background", "original": "#ffffff", "expected": "KEEP", "kind": "keep", "ambiguous": false}

@@ -1,0 +1,41 @@
+/* service-booking: legacy styles written before the token system */
+
+.service-booking__saved {
+  border-color: #16a34a;
+  background: rgb(240, 253, 244);
+}
+
+.service-booking__save {
+  background: #2865ee;
+  color: rgb(255, 255, 255);
+}
+
+.service-booking__body {
+  margin-bottom: 32px;
+  gap: 4px;
+}
+
+.service-booking__secondary {
+  background: #ffffff;
+  border-color: #cbd5e1;
+}
+
+.service-booking__well {
+  background: #f8fafc;
+}
+
+.service-booking h2 {
+  color: var(--tf-color-text-default);
+}
+
+.service-booking__field:focus {
+  outline-color: #2563eb;
+}
+
+.service-booking__logo path {
+  fill: #e30613; /* partner logo, fixed brand colour */
+}
+
+.service-booking__cta:hover {
+  background: #1d4ed8;
+}

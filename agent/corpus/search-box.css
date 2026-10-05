@@ -1,0 +1,47 @@
+/* search-box: legacy styles written before the token system */
+
+.search-box__caption {
+  color: var(--tf-color-text-muted);
+}
+
+.search-box__header {
+  background: #f8fafc;
+}
+
+.search-box__logo path {
+  fill: #e30613; /* partner logo, fixed brand colour */
+}
+
+.search-box input {
+  border-color: rgb(100, 116, 139);
+}
+
+.search-box__alert--danger {
+  border-color: #dc2626;
+  background: rgb(254, 242, 242);
+}
+
+.search-box button:focus-visible {
+  outline-color: #2563eb;
+}
+
+.search-box-page {
+  background: rgb(255, 255, 255);
+}
+
+.search-box__item {
+  border-color: rgb(226, 232, 240);
+}
+
+.search-box__body {
+  gap: 16px;
+  font-size: 16px;
+}
+
+.search-box__frame {
+  border-radius: 4px;
+}
+
+.search-box__item--disabled {
+  color: #94a3b8;
+}

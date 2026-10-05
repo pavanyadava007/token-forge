@@ -1,0 +1,42 @@
+/* config-stepper: legacy styles written before the token system */
+
+.config-stepper__panel-shadow {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.config-stepper__problem {
+  border-color: #e12726;
+  background: #fef2f2;
+}
+
+.config-stepper__body {
+  padding: 12px;
+}
+
+.config-stepper__frame {
+  border-radius: 4px;
+}
+
+.config-stepper__done {
+  background: #f1fbf9;
+  border-color: #16a34a;
+}
+
+.config-stepper__cta {
+  background: #2563eb;
+  color: #ffffff;
+}
+
+.config-stepper__caution {
+  color: #b45309;
+  border-color: #f8a009;
+}
+
+.config-stepper__note {
+  color: #1c4ad8;
+  border-color: #2563eb;
+}
+
+.config-stepper__field {
+  border-color: #64748b;
+}

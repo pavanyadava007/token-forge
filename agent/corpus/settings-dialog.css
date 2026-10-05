@@ -1,0 +1,49 @@
+/* settings-dialog: legacy styles written before the token system */
+
+.settings-dialog__hint-box {
+  color: #1d4ed8;
+  background: #eff6ff;
+}
+
+.settings-dialog__help {
+  color: #475569;
+}
+
+.settings-dialog__item--disabled {
+  color: #94a3b8;
+}
+
+.settings-dialog input:focus-visible {
+  outline-color: #2563eb;
+}
+
+.settings-dialog a {
+  color: #1d4ed8;
+}
+
+.settings-dialog__cancel {
+  background: #ffffff;
+  border-color: #cbd5e1;
+}
+
+.settings-dialog__cta:hover {
+  background: #1f52d4;
+}
+
+.settings-dialog__panel-shadow {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.settings-dialog__frame {
+  border-radius: 8px;
+}
+
+.settings-dialog__body {
+  font-size: 16px;
+  padding: 24px;
+}
+
+.settings-dialog__cta {
+  background: #2362e6;
+  color: #ffffff;
+}

@@ -1,0 +1,171 @@
+{
+  "color": {
+    "surface": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.0}",
+        "$description": "Page background"
+      },
+      "subtle": {
+        "$type": "color",
+        "$value": "{color.neutral.50}",
+        "$description": "Section and table-stripe background"
+      },
+      "raised": {
+        "$type": "color",
+        "$value": "{color.neutral.0}",
+        "$description": "Cards, dialogs, menus"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{color.neutral.900}",
+        "$description": "Tooltips, snackbars"
+      }
+    },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "{color.neutral.900}",
+        "$description": "Body text and headings"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{color.neutral.600}",
+        "$description": "Help text, captions, metadata"
+      },
+      "inverse": {
+        "$type": "color",
+        "$value": "{color.neutral.0}",
+        "$description": "Text on surface.inverse"
+      },
+      "on-action": {
+        "$type": "color",
+        "$value": "{color.neutral.0}",
+        "$description": "Text on action.primary backgrounds"
+      },
+      "link": {
+        "$type": "color",
+        "$value": "{color.blue.700}",
+        "$description": "Inline links"
+      },
+      "disabled": {
+        "$type": "color",
+        "$value": "{color.neutral.400}",
+        "$description": "Disabled labels (exempt from contrast rules)"
+      }
+    },
+    "border": {
+      "default": {
+        "$type": "color",
+        "$value": "{color.neutral.200}",
+        "$description": "Dividers, card outlines"
+      },
+      "strong": {
+        "$type": "color",
+        "$value": "{color.neutral.500}",
+        "$description": "Form control outlines"
+      },
+      "focus": {
+        "$type": "color",
+        "$value": "{color.blue.600}",
+        "$description": "Focus ring"
+      }
+    },
+    "action": {
+      "primary": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.blue.600}",
+          "$description": "Primary button background"
+        },
+        "bg-hover": {
+          "$type": "color",
+          "$value": "{color.blue.700}",
+          "$description": "Primary button hover background"
+        }
+      },
+      "secondary": {
+        "bg": {
+          "$type": "color",
+          "$value": "{color.neutral.0}",
+          "$description": "Secondary button background"
+        },
+        "border": {
+          "$type": "color",
+          "$value": "{color.neutral.300}",
+          "$description": "Secondary button outline"
+        }
+      }
+    },
+    "feedback": {
+      "error": {
+        "text": {
+          "$type": "color",
+          "$value": "{color.red.700}",
+          "$description": "Error message text and icons"
+        },
+        "bg": {
+          "$type": "color",
+          "$value": "{color.red.50}",
+          "$description": "Error message background"
+        },
+        "border": {
+          "$type": "color",
+          "$value": "{color.red.600}",
+          "$description": "Error message border"
+        }
+      },
+      "success": {
+        "text": {
+          "$type": "color",
+          "$value": "{color.green.700}",
+          "$description": "Success message text and icons"
+        },
+        "bg": {
+          "$type": "color",
+          "$value": "{color.green.50}",
+          "$description": "Success message background"
+        },
+        "border": {
+          "$type": "color",
+          "$value": "{color.green.600}",
+          "$description": "Success message border"
+        }
+      },
+      "warning": {
+        "text": {
+          "$type": "color",
+          "$value": "{color.amber.700}",
+          "$description": "Warning message text and icons"
+        },
+        "bg": {
+          "$type": "color",
+          "$value": "{color.amber.50}",
+          "$description": "Warning message background"
+        },
+        "border": {
+          "$type": "color",
+          "$value": "{color.amber.500}",
+          "$description": "Warning message border"
+        }
+      },
+      "info": {
+        "text": {
+          "$type": "color",
+          "$value": "{color.blue.700}",
+          "$description": "Info message text and icons"
+        },
+        "bg": {
+          "$type": "color",
+          "$value": "{color.blue.50}",
+          "$description": "Info message background"
+        },
+        "border": {
+          "$type": "color",
+          "$value": "{color.blue.600}",
+          "$description": "Info message border"
+        }
+      }
+    }
+  }
+}

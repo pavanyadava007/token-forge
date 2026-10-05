@@ -1,0 +1,48 @@
+/* release-banner: legacy styles written before the token system */
+
+.release-banner__body {
+  gap: 8px;
+}
+
+.release-banner__card {
+  background: #fdffff;
+}
+
+.release-banner__expiry {
+  background: #fffbeb;
+  color: #b45309;
+}
+
+.release-banner__print-only {
+  color: #000000; /* print stylesheet, always black */
+}
+
+.release-banner__success {
+  color: #15803d;
+  background: #f0fdf4;
+}
+
+.release-banner select {
+  border-color: #5f728e;
+}
+
+.release-banner__row {
+  border-color: #e5e3f3;
+}
+
+.release-banner__secondary {
+  background: #ffffff;
+  border-color: #cbd5e1;
+}
+
+.release-banner__frame {
+  border-radius: 12px;
+}
+
+.release-banner__save:hover {
+  background: rgb(29, 78, 216);
+}
+
+.release-banner__more {
+  color: #1d4ed8;
+}

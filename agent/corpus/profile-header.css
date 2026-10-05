@@ -1,0 +1,40 @@
+/* profile-header: legacy styles written before the token system */
+
+.profile-header__row {
+  border-color: #e2e8f0;
+}
+
+.profile-header__logo path {
+  fill: #e30613; /* partner logo, fixed brand colour */
+}
+
+.profile-header__bubble {
+  background: #0f172a;
+  color: #ffffff;
+}
+
+.profile-header__field:focus {
+  outline-color: #2a62f0;
+}
+
+.profile-header-wrapper {
+  background: #ffffff;
+}
+
+.profile-header__item--disabled {
+  color: #94a3b8;
+}
+
+.profile-header__info {
+  color: #1d4ed8;
+  background: rgb(239, 246, 255);
+}
+
+.profile-header__frame {
+  border-radius: 12px;
+}
+
+.profile-header__body {
+  padding: 8px;
+  margin-bottom: 8px;
+}

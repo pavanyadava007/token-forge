@@ -1,0 +1,552 @@
+{
+  "dev": {
+    "rules": {
+      "seeds": [
+        0
+      ],
+      "n_sites": 146,
+      "accuracy": {
+        "mean": 0.6917808219178082,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 47,
+          "n": 47
+        },
+        "ambiguous": {
+          "correct": 12,
+          "n": 28
+        },
+        "near": {
+          "correct": 0,
+          "n": 26
+        },
+        "format": {
+          "correct": 4,
+          "n": 4
+        },
+        "deprecated": {
+          "correct": 3,
+          "n": 3
+        },
+        "dim": {
+          "correct": 24,
+          "n": 24
+        },
+        "keep": {
+          "correct": 11,
+          "n": 14
+        }
+      },
+      "dark_errors": {
+        "mean": 44,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 26,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    },
+    "rules_plus": {
+      "seeds": [
+        0
+      ],
+      "n_sites": 146,
+      "accuracy": {
+        "mean": 0.9041095890410958,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 47,
+          "n": 47
+        },
+        "ambiguous": {
+          "correct": 21,
+          "n": 28
+        },
+        "near": {
+          "correct": 22,
+          "n": 26
+        },
+        "format": {
+          "correct": 4,
+          "n": 4
+        },
+        "deprecated": {
+          "correct": 3,
+          "n": 3
+        },
+        "dim": {
+          "correct": 24,
+          "n": 24
+        },
+        "keep": {
+          "correct": 11,
+          "n": 14
+        }
+      },
+      "dark_errors": {
+        "mean": 12,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 2,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    },
+    "llm_file": {
+      "seeds": [
+        0
+      ],
+      "n_sites": 146,
+      "accuracy": {
+        "mean": 0.8561643835616438,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 47,
+          "n": 47
+        },
+        "ambiguous": {
+          "correct": 19,
+          "n": 28
+        },
+        "near": {
+          "correct": 17,
+          "n": 26
+        },
+        "format": {
+          "correct": 4,
+          "n": 4
+        },
+        "deprecated": {
+          "correct": 3,
+          "n": 3
+        },
+        "dim": {
+          "correct": 21,
+          "n": 24
+        },
+        "keep": {
+          "correct": 14,
+          "n": 14
+        }
+      },
+      "dark_errors": {
+        "mean": 20,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 10,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    },
+    "agent": {
+      "seeds": [
+        0
+      ],
+      "n_sites": 146,
+      "accuracy": {
+        "mean": 0.9452054794520548,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 47,
+          "n": 47
+        },
+        "ambiguous": {
+          "correct": 23,
+          "n": 28
+        },
+        "near": {
+          "correct": 23,
+          "n": 26
+        },
+        "format": {
+          "correct": 4,
+          "n": 4
+        },
+        "deprecated": {
+          "correct": 3,
+          "n": 3
+        },
+        "dim": {
+          "correct": 24,
+          "n": 24
+        },
+        "keep": {
+          "correct": 14,
+          "n": 14
+        }
+      },
+      "dark_errors": {
+        "mean": 6,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 2,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 4.2,
+        "sd": 0.0
+      }
+    }
+  },
+  "test": {
+    "rules": {
+      "seeds": [
+        0
+      ],
+      "n_sites": 292,
+      "accuracy": {
+        "mean": 0.7636986301369864,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 89,
+          "n": 89
+        },
+        "ambiguous": {
+          "correct": 23,
+          "n": 49
+        },
+        "near": {
+          "correct": 1,
+          "n": 40
+        },
+        "format": {
+          "correct": 20,
+          "n": 20
+        },
+        "deprecated": {
+          "correct": 17,
+          "n": 17
+        },
+        "dim": {
+          "correct": 50,
+          "n": 50
+        },
+        "keep": {
+          "correct": 23,
+          "n": 27
+        }
+      },
+      "dark_errors": {
+        "mean": 63,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 36,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    },
+    "rules_plus": {
+      "seeds": [
+        0
+      ],
+      "n_sites": 292,
+      "accuracy": {
+        "mean": 0.9417808219178082,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 89,
+          "n": 89
+        },
+        "ambiguous": {
+          "correct": 38,
+          "n": 49
+        },
+        "near": {
+          "correct": 38,
+          "n": 40
+        },
+        "format": {
+          "correct": 20,
+          "n": 20
+        },
+        "deprecated": {
+          "correct": 17,
+          "n": 17
+        },
+        "dim": {
+          "correct": 50,
+          "n": 50
+        },
+        "keep": {
+          "correct": 23,
+          "n": 27
+        }
+      },
+      "dark_errors": {
+        "mean": 12,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    },
+    "llm_file": {
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "n_sites": 292,
+      "accuracy": {
+        "mean": 0.906392694063927,
+        "sd": 0.011300793306634326
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 86.33333333333333,
+          "n": 89
+        },
+        "ambiguous": {
+          "correct": 34.666666666666664,
+          "n": 49
+        },
+        "near": {
+          "correct": 35,
+          "n": 40
+        },
+        "format": {
+          "correct": 20,
+          "n": 20
+        },
+        "deprecated": {
+          "correct": 15,
+          "n": 17
+        },
+        "dim": {
+          "correct": 48,
+          "n": 50
+        },
+        "keep": {
+          "correct": 25.666666666666668,
+          "n": 27
+        }
+      },
+      "dark_errors": {
+        "mean": 15,
+        "sd": 1.4142135623730951
+      },
+      "light_errors": {
+        "mean": 4.333333333333333,
+        "sd": 0.9428090415820634
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 0.0,
+        "sd": 0.0
+      }
+    },
+    "agent_nocontext": {
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "n_sites": 292,
+      "accuracy": {
+        "mean": 0.8698630136986302,
+        "sd": 0.0
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 89,
+          "n": 89
+        },
+        "ambiguous": {
+          "correct": 23,
+          "n": 49
+        },
+        "near": {
+          "correct": 32,
+          "n": 40
+        },
+        "format": {
+          "correct": 20,
+          "n": 20
+        },
+        "deprecated": {
+          "correct": 17,
+          "n": 17
+        },
+        "dim": {
+          "correct": 50,
+          "n": 50
+        },
+        "keep": {
+          "correct": 23,
+          "n": 27
+        }
+      },
+      "dark_errors": {
+        "mean": 31,
+        "sd": 0.0
+      },
+      "light_errors": {
+        "mean": 0.3333333333333333,
+        "sd": 0.4714045207910317
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 3.55,
+        "sd": 0.0
+      }
+    },
+    "agent": {
+      "seeds": [
+        0,
+        1,
+        2
+      ],
+      "n_sites": 292,
+      "accuracy": {
+        "mean": 0.9600456621004566,
+        "sd": 0.0016143990438049094
+      },
+      "by_kind": {
+        "exact": {
+          "correct": 89,
+          "n": 89
+        },
+        "ambiguous": {
+          "correct": 39.333333333333336,
+          "n": 49
+        },
+        "near": {
+          "correct": 38,
+          "n": 40
+        },
+        "format": {
+          "correct": 20,
+          "n": 20
+        },
+        "deprecated": {
+          "correct": 17,
+          "n": 17
+        },
+        "dim": {
+          "correct": 50,
+          "n": 50
+        },
+        "keep": {
+          "correct": 27,
+          "n": 27
+        }
+      },
+      "dark_errors": {
+        "mean": 7.666666666666667,
+        "sd": 0.4714045207910317
+      },
+      "light_errors": {
+        "mean": 2,
+        "sd": 0.0
+      },
+      "collateral": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "unparsable_files": {
+        "mean": 0,
+        "sd": 0.0
+      },
+      "llm_calls_per_file": {
+        "mean": 3.55,
+        "sd": 0.0
+      }
+    }
+  }
+}

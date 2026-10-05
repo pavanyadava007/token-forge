@@ -1,0 +1,26 @@
+[project]
+name = "tokenforge-agent"
+version = "0.1.0"
+description = "Token-migration agent: rewrites hard-coded design values and deprecated tokens in consumer CSS to semantic design tokens, with an evaluation harness."
+requires-python = ">=3.10"
+dependencies = ["tinycss2>=1.3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.6"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["tokenforge_agent"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.ruff.lint.per-file-ignores]
+"tokenforge_agent/corpus.py" = ["E501", "B023"]  # add() is called only inside its own loop iteration

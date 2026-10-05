@@ -1,0 +1,49 @@
+/* payment-sheet: legacy styles written before the token system */
+
+.payment-sheet__frame {
+  border-radius: 12px;
+}
+
+.payment-sheet__info {
+  background: #f4f7fb;
+  border-color: #2563eb;
+}
+
+.payment-sheet-layout {
+  background: #ffffff;
+}
+
+.payment-sheet__field {
+  border-color: #68748e;
+}
+
+.payment-sheet__badge--beta {
+  color: #7c3aed;
+}
+
+.payment-sheet__body {
+  gap: 8px;
+}
+
+.payment-sheet__panel-shadow {
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
+}
+
+.payment-sheet__error {
+  color: #b91c1c;
+  background: #fef2f2;
+}
+
+.payment-sheet__more {
+  color: #1d4ed8;
+}
+
+.payment-sheet__cancel {
+  background: #fafffc;
+  border-color: #cbd5e1;
+}
+
+.payment-sheet__tooltip {
+  background: #0f172a;
+  color: #ffffff;
+}

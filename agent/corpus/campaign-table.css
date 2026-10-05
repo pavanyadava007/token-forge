@@ -1,0 +1,46 @@
+/* campaign-table: legacy styles written before the token system */
+
+.campaign-table__logo path {
+  fill: #e30613; /* partner logo, fixed brand colour */
+}
+
+.campaign-table__cancel {
+  background: #ffffff;
+  border-color: #cbd5e1;
+}
+
+.campaign-table__qr {
+  background: #ffffff; /* QR codes need pure white in every theme */
+}
+
+.campaign-table__label {
+  color: #0f172a;
+}
+
+.campaign-table__problem {
+  background: #fef2f2;
+  border-color: #dc2626;
+}
+
+.campaign-table__body {
+  padding: 16px;
+  gap: 16px;
+}
+
+.campaign-table__frame {
+  border-radius: 8px;
+}
+
+.campaign-table-tile {
+  background: var(--tf-color-bg-card);
+}
+
+.campaign-table__note {
+  background: #eff6ff;
+  border-color: #2563eb;
+}
+
+.campaign-table__success {
+  background: #f0fdf4;
+  border-color: #15a84e;
+}

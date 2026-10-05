@@ -1,0 +1,46 @@
+/* warranty-notice: legacy styles written before the token system */
+
+.warranty-notice__hint-box {
+  border-color: #2563eb;
+  color: #1d4ed8;
+}
+
+.warranty-notice-layout {
+  background: #faffff;
+}
+
+.warranty-notice__chart-line--3 {
+  stroke: #a855f7;
+}
+
+.warranty-notice__cta:hover {
+  background: #1c49dc;
+}
+
+.warranty-notice__save {
+  background: #2264ea;
+  color: #ffffff;
+}
+
+.warranty-notice__frame {
+  border-radius: 8px;
+}
+
+.warranty-notice__body {
+  margin-bottom: 32px;
+  padding: 8px;
+  line-height: 1.5;
+}
+
+.warranty-notice a {
+  color: #1d4ed8;
+}
+
+.warranty-notice__field:focus {
+  outline-color: #2164f0;
+}
+
+.warranty-notice__error {
+  color: var(--tf-color-danger);
+  background: #fef2f2;
+}

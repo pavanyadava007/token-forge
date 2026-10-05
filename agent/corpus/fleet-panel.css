@@ -1,0 +1,43 @@
+/* fleet-panel: legacy styles written before the token system */
+
+.fleet-panel__name {
+  color: var(--tf-color-text-default);
+}
+
+.fleet-panel__hint-box {
+  color: #1a49d5;
+  border-color: #2563eb;
+}
+
+.fleet-panel-tile {
+  background: #ffffff;
+}
+
+.fleet-panel__well {
+  background: #f8fafc;
+}
+
+.fleet-panel__link {
+  color: #1d4ed8;
+}
+
+.fleet-panel input {
+  border-color: #64748b;
+}
+
+.fleet-panel__alert--danger {
+  border-color: #dc2626;
+  color: #b91c1c;
+}
+
+.fleet-panel__body {
+  gap: 16px;
+  font-size: 20px;
+  padding: 12px;
+  line-height: 1.5;
+}
+
+.fleet-panel__saved {
+  color: #15803d;
+  background: #f0fdf4;
+}
